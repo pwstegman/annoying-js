@@ -1,4 +1,4 @@
 annoying-js
 ===========
 
-The world's most annoying Javascript code!
+The world's most annoying JavaScript code!
